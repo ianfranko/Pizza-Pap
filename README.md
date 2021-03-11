@@ -6,7 +6,7 @@
 A pizza ordering web application.
 
 ## Author:
-> Victor Waichigo
+Odundo Ian Frank
 
 ## Screenshot:
 <img src="images/shot.png" width="1000">
@@ -38,7 +38,6 @@ Extract the zip file
 | Delivery mode   | `eg No delivery`   |
 
 ## License:
->MIT LICENSE &copy; 2019 Victor
+>MIT LICENSE &copy; 2021 Odundo Ian frank
 
-## Collaborate:
-To contribute to Pizza pap!, reach me on `waichigovick@gmail.com`.
+
